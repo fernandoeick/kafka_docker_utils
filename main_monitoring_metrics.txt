@@ -1,0 +1,14 @@
+### Principais métricas para monitoramento do Kafka ###
+
+Source: https://sematext.com/blog/kafka-metrics-to-monitor/#toc-top-10-kafka-metrics-to-focus-on-first-1
+
+1. Network Request Rate
+2. Network Error Rate
+3. Under-replicated Partitions
+4. Offline Partition Count
+5. Total Broker Partitions
+6. Log Flush Latency
+7. Consumer Message Rate
+8. Consumer Max Lag
+9. Fetcher Lag
+10. Free Memory and Swap Space Usage 
